@@ -2,9 +2,9 @@
 爬取微软漏洞信息，MS对应的每个版本操作系统KB号以及补丁下载地址。
 
 ### 项目文件
-＊ MicrosoftSpider.py 爬虫代码
-＊ oprethinkdb.py 数据库代码
-＊ ms_kb.txt 最终数据库文件（JSON格式）
+* MicrosoftSpider.py 爬虫代码
+* oprethinkdb.py 数据库代码
+* ms_kb.txt 最终数据库文件（JSON格式）
 
 ### ms_kb.txt
 此数据库文件包含了2010-2017年所有的MS漏洞信息，包括MS编号，对应的操作系统版本，以及KB号和补丁下载地址，可直接下载使用。
