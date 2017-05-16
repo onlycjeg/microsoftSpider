@@ -4,9 +4,9 @@
 ### 项目文件
 * MicrosoftSpider.py 爬虫代码
 * oprethinkdb.py 数据库代码
-* ms_kb.txt 最终数据库文件（JSON格式）
+* ms_kb.db 最终数据库文件（JSON格式）
 
-### ms_kb.txt
+### ms_kb.db
 此数据库文件包含了2010-2017年所有的MS漏洞信息，包括MS编号，对应的操作系统版本，以及KB号和补丁下载地址，可直接下载使用。
 ![](/1.png)
 数据格式为json，每行以\n结尾。
